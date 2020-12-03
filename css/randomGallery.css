@@ -1,0 +1,17 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+.container {
+    width: 75%;
+    margin: 2rem auto;  
+    height: 65vh;
+    text-align: center;
+}
+
+img {
+    display: block;
+    height: 100%;
+    margin: 2rem;
+}
